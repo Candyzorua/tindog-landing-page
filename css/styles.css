@@ -50,6 +50,12 @@ h1 {
     right: 25%;
 }
 
+@media only screen and (max-width: 1300px) {
+    #iphone-mockup {
+        display: none
+    }
+}
+
 /* Features Section*/
 #features {
     background-color: white;
